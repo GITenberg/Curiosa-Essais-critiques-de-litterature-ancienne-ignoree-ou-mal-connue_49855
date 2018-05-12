@@ -1,10 +1,16 @@
 _repo: Curiosa-Essais-critiques-de-litterature-ancienne-ignoree-ou-mal-connue_49855
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49855-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonneau, Alcide
     gutenberg_agent_id: '45575'
     url: http://www.gutenberg.org/2009/agents/45575
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49855#Curiosa-Essais-critiques-de-litterature-ancienne-ignoree-ou-mal-connue
 gutenberg_bookshelf:
 - FR Séduction et libertinage
 - FR Nouveautés
